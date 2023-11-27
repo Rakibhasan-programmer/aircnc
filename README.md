@@ -1,1 +1,1 @@
-# aircnc
+# aircnc - clone of airbnb
